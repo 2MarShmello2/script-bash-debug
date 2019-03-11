@@ -27,7 +27,7 @@ For example when we run test1
 We will get
 
 ```bash
-  Compilation Memory leaks thread race
+  Compilation   Memory leaks   thread race
      PASS            FAIL           PASS
 ```
 Here we see a Memory-leak detection.
